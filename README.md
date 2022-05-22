@@ -13,3 +13,7 @@ for example:
 vid
 
 video.mp4
+
+# Dependencies
+
+Please, download YOLOv3-416 through this link "https://pjreddie.com/darknet/yolo/" and put that file in "yolo" folder inside the project folder.
